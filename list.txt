@@ -1,0 +1,3 @@
+1. A2212/13t-1000kv brushless motor (model-A2212/13)(Rpm/v=1000kv)
+2. MPU-6050 modules(thre-axis gyroscope + three-axis accelerometer)(chip used-MPU-6050)(power supply=3-5v)
+3. 30A ESC (battery range :2-3 LIPO size)
