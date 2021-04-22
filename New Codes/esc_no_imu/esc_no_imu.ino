@@ -140,6 +140,7 @@ void loop() {
   ///////////////////////////////////////////////////////////////////////////////////////////
   //When user sends a '1, 2, 3, 4 or 5 test the motors.
   ////////////////////////////////////////////////////////////////////////////////////////////
+  data = '5';
   if(data == '1' || data == '2' || data == '3' || data == '4' || data == '5'){          //If motor 1, 2, 3 or 4 is selected by the user.
     loop_counter ++;
     if(new_function_request == true && loop_counter == 250){                            //Wait for the throttle to be set to 0.
